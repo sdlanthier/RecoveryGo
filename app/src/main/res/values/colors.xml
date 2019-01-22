@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorAccent">#fee102</color>
+
+    <color name="colorPrimaryText">#000000</color>
+    <color name="colorAccentText">#f40b8a</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#ffff00</color>
+
+    <color name="facebook_Blue">#4368b3</color>
+    <color name="facebook_LightBlue">#e9ebee</color>
+
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#d9d9d9</color>
+
+    <color name="side_nav_bar_startColor">#f40b45</color>
+    <color name="side_nav_bar_centerColor">#ff5a83</color>
+    <color name="side_nav_bar_endColor">#000000</color>
 </resources>
